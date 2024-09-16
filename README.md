@@ -9,11 +9,12 @@ This site was built using Django, with progressive enhancement features using Jq
 # Assignment Page
 ![assignment](https://github.com/user-attachments/assets/891340fb-a721-4952-8f05-474d8f3b62bd)
 
-# Profile Page
+# Profile Page - for TAs and Professors
 ![profile-wide](https://github.com/user-attachments/assets/90216673-9844-4f9f-ad0a-dca4c7e813d2)
+
+# Profile Page and Grade Hypothesizing Page - for Students
+![Screenshot 2024-09-15 204938](https://github.com/user-attachments/assets/7f4fae1b-d6cc-484b-9d55-3925373b1b0b)
 
 # Submission Page
 ![submissions](https://github.com/user-attachments/assets/a9966f0c-4ffd-4c2b-bc17-810618278579)
 
-# Grade Hypothesizing Page
-![Screenshot 2024-09-15 204938](https://github.com/user-attachments/assets/7f4fae1b-d6cc-484b-9d55-3925373b1b0b)
