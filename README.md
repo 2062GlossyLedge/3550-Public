@@ -1,5 +1,5 @@
 # 3550-Public
-This repo displays the Learning Management Software built in CS 3550.
+This repo displays the Learning Management Software for Sutdents, TAs, and Professors. 
 Do to course policies, only the pictures of the website can be shown.
 This site was built using Django, with progressive enhancement features using Jquery.
 
